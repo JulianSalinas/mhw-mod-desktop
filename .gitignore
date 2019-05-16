@@ -1,0 +1,9 @@
+
+\.vs
+mhw-mod-desktop/obj/Debug/
+
+mhw-mod-desktop/bin/Debug/
+
+mhw-mod-desktop/bin/Release/
+
+mhw-mod-desktop/obj/Release/
